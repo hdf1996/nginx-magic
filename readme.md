@@ -7,3 +7,6 @@ Oh, one more thing! I assume in the scripts that you have configured your dns fo
 
 Have fun doing magic!
 - Hugo
+
+PS: Hey, take this Stellar squirrel that finds out there is no oxygen.
+![alt tag](https://raw.githubusercontent.com/hdf1986/nginx-magic/master/squirrel.jpg)
