@@ -3,7 +3,7 @@ They are Apache/[insert-your-http-server-here] agnostic, so you only must use it
 
 Just paste it in your sites-available folder & then symbolic link it from sites-enabled.
 
-Oh, one more thing! I assume in the scripts that you have configured your dns for your domain, i will never hardcode ip or domains in the scripts. 
+Oh, one more thing! I assume in the scripts that you have configured your dns for your domain
 
 Have fun doing magic!
 - Hugo
