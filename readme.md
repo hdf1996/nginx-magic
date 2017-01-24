@@ -1,5 +1,5 @@
 This repo holds some of my tipical scripts to configure nginx servers.
-They are Apache/[insert-your-http-server-here] agnostic, so you only must use it with the port that the server currently use. Always try that it doesn't is 80 or 443.
+These are Apache/[insert-your-http-server-here] agnostic. Only take care that Apache/[insert-your-http-server-here] is not holding the same port that you are trying to use (tipically 80 or 443)
 
 Just paste it in your sites-available folder & then symbolic link it from sites-enabled.
 
